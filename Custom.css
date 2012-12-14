@@ -26,7 +26,11 @@
   line-height: 50pt !important;
 }
 
-//Level2: striking #TxtStartDate,
+//Level2: striking
+#TxtStartDate {
+  width: 84px !important;
+}
+
 #TxtEndDate {
   width: 84px !important;
 }
