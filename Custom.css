@@ -1,0 +1,35 @@
+//for Kinjiro
+//Level3: very striking
+#LblVer {
+  width: 218px !important;
+}
+
+#Panel1 {
+  padding-bottom: 7px !important;
+  background-color: #006600 !important;
+}
+
+#WucMenu1_BtnLogin,
+#WucMenu1_BtnLogout,
+#SelectScreen1_TxtApplyStartDate,
+#SelectScreen1_TxtApplyEndDate,
+#WucMenu1_TxtButtonHide,
+#ComSelTest_TXT_APPLICATDAY_S,
+#ComSelTest_TXT_APPLICATDAY_E,
+#ComSelect1_TXT_APPLICATDAY_S,
+#ComSelect1_TXT_APPLICATDAY_E,
+#TxtCbFreeSlct {
+  visibility: hidden !important;
+}
+
+#LblNoFont2 {
+  line-height: 50pt !important;
+}
+
+//Level2: quite striking
+#TxtStartDate,
+#TxtEndDate {
+  width: 84px !important;
+}
+
+
