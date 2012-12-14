@@ -19,11 +19,25 @@
 #ComSelect1_TXT_APPLICATDAY_S,
 #ComSelect1_TXT_APPLICATDAY_E,
 #TxtCbFreeSlct {
-  visibility: hidden !important;
+  opacity: .1 !important;
 }
 
 #LblNoFont2 {
   line-height: 50pt !important;
+}
+
+span#Label11 {
+  height: 17px;
+  text-indent: 0.3em;
+}
+
+body[ms_positioning="GridLayout"] #Table1[width="298"] {
+  top: 137px !important;
+}
+
+body[ms_positioning="GridLayout"] #Form1 #BtnClose {
+  left: 134px !important;
+  top: 394px !important;
 }
 
 //Level2: striking
