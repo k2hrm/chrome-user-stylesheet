@@ -26,10 +26,24 @@
   line-height: 50pt !important;
 }
 
-//Level2: quite striking
-#TxtStartDate,
+//Level2: striking #TxtStartDate,
 #TxtEndDate {
   width: 84px !important;
 }
 
+//Level1 making better
+#Table12 #Table7 #Table6 #Table2 td {
+  width: 450px !important;
+}
 
+#Table12 #Table7 #Table6 #Table2 td input {
+  margin:0 0 20px 80px !important;
+}
+
+#BtnGaisyutu,
+#BtnModori {
+  font-size: 11pt !important;
+  font-weight: normal !important;
+  width: 55px !important;
+  height: 35px !important;
+}
